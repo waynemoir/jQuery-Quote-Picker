@@ -16,4 +16,156 @@
 		<text>Design is not just what it looks like and feels like. Design is how it works.</text>
 		<source>The New York Times</source>
 	</quote>
+	<quote title="Jeff Atwood" url="http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html">
+		<text>Your app is a collection of tiny details. Getting the details right is the difference between something that delights, and something customers tolerate.</text>
+		<source>Coding Horror</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>You cannot understand good design if you do not understand people.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is innovative - The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Makes a product useful - A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasizes the usefulness of a product whilst disregarding anything that could possibly detract from it.</text>
+		<source>Fast Company</source>
+	</quote>	
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is aesthetic - The aesthetic quality of a product is integral to its usefulness because products are used every day and have an effect on people and their well-being. Only well-executed objects can be beautiful.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Makes a product understandable - It clarifies the product’s structure. Better still, it can make the product clearly express its function by making use of the user's intuition. At best, it is self-explanatory.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is unobtrusive - Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained, to leave room for the user's self-expression.</text>
+		<source>Fast Company</source>
+	</quote>	
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is honest - It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is long-lasting - It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today's throwaway society.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is thorough down to the last detail - Nothing must be arbitrary or left to chance. Care and accuracy in the design process show respect towards the consumer.</text>
+		<source>Fast Company</source>
+	</quote>	
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is environmentally friendly - Design makes an important contribution to the preservation of the environment. It conserves resources and minimizes physical and visual pollution throughout the lifecycle of the product.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Dieter Rams" url="http://www.fastcodesign.com/1669725/dieter-rams-on-good-design-as-a-key-business-advantage">
+		<text>Good design: Is as little design as possible - Less, but better – because it concentrates on the essential aspects, and the products are not burdened with non-essentials. Back to purity, back to simplicity.</text>
+		<source>Fast Company</source>
+	</quote>
+	<quote title="Joshua Kaufman" url="https://twitter.com/jankowarpspeed/statuses/234186897205907456">
+		<text>Modals are often copouts for poor design. Modals are often used when the UI doesn’t accommodate the desired content. That’s when it can be better designed.</text>
+		<source></source>
+	</quote>
+	<quote title="Jeffrey Zeldman" url="http://archive.aneventapart.com/2012/austin/?/2012/austin/">
+		<text>Design that does not serve people does not serve business.</text>
+		<source></source>
+	</quote>
+	<quote title="Albert Einstein" url="">
+		<text>If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and 5 minutes thinking about solutions</text>
+		<source></source>
+	</quote>
+	<quote title="Yogi Berra" url="">
+		<text>You can observe a lot. Just by watching</text>
+		<source></source>
+	</quote>
+	<quote title="" url="">
+		<text>Pride comes from the desire to create something great. Be prideful of your work.</text>
+		<source>@jensenharris #UXWeek</source>
+	</quote>
+	<quote title="" url="">
+		<text>Your job as a designer is to care. About every detail. You might not always win. But if you don't care who will?</text>
+		<source>@jensenharris #UXWeek</source>
+	</quote>
+	<quote title="" url="">
+		<text>You expect lag from a mouse, but if you touch something and it doesn't respond, you take it personally.</text>
+		<source>@jensenharris #UXWeek</source>
+	</quote>
+	<quote title="Christian Heilmann" url="http://coding.smashingmagazine.com/2012/08/17/javascript-events-responding-user/">
+		<text>Think of your product as an escalator: if your JavaScript does not execute, the website should still be usable as stairs.</text>
+		<source></source>
+	</quote>
+	<quote title="Luke Wroblewski" url="">
+		<text>Those who say &amp;quot;click&amp;quot; not &amp;quot;tap&amp;quot; quickly reveal their GUI roots.</text>
+		<source></source>
+	</quote>
+	<quote title="Jared Spool" url="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CDoQFjAB&amp;url=https%3A%2F%2Ftwitter.com%2Fjmspool%2Fstatus%2F237746054479613953&amp;ei=zhbkUIG_FMa00QXC0oCQCg&amp;usg=AFQjCNF2IaAPiuY-BFIWTK6f5j2uqDd_0w&amp;bvm=bv.1355534169,d.d2k">
+		<text>There are no shortcuts, Crappy user research produces crappy products. Plain and simple.</text>
+		<source></source>
+	</quote>
+	<quote title="Don Norman, circa 1990" url="">
+		<text>The real problem with the interface is that it is an interface. Interfaces get in the way. I don’t want to focus my energies on an interface. I want to focus on the job…I don’t want to think of myself as using a computer, I want to think of myself as doing my job.</text>
+		<source></source>
+	</quote>
+	<quote title="Will Sansbury" url="https://twitter.com/willsansbury/status/250722433689071616 ">
+		<text>You don't directly build a good product. You build a good team. Good products are a byproduct of good teams.</text>
+		<source></source>
+	</quote>
+	<quote title="Will Sansbury" url="https://twitter.com/willsansbury/status/250734516577116160">
+		<text>Our role is not to design everything ourselves but to equip the team to do good design.</text>
+		<source></source>
+	</quote>
+	<quote title="Michael Jordan" url="">
+		<text>I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times, I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.</text>
+		<source></source>
+	</quote>
+	<quote title="Nicolas Gallagher" url="">
+		<text>One way to reduce CSS frustrations, feature inadequacies, and maintenance problems seems to be to write/generate less CSS</text>
+		<source></source>
+	</quote>
+	<quote title="Albert Einstein" url="">
+		<text>If you can’t explain it simply, you don’t understand it well enough</text>
+		<source></source>
+	</quote>
+	<quote title="Janko Jovanovic" url="">
+		<text>It's easy to put rectangles on a page and call it a wireframe. But making it meaningful is a complex process that takes a lot more time.</text>
+		<source></source>
+	</quote>
+	<quote title="Eleanor Roosevelt" url="">
+		<text>Great minds discuss ideas; average minds discuss events; small minds discuss people.</text>
+		<source></source>
+	</quote>
+	<quote title="Bruce Lee" url="">
+		<text>If you spend too much time thinking about a thing, you'll never get it done.</text>
+		<source></source>
+	</quote>
+	<quote title="Elizabeth Buie" url="">
+		<text>If displaying feedback at the top of the page, make sure it doesn't move the main content down. Such movement messes up clicking.</text>
+		<source></source>
+	</quote>
+	<quote title="Gov.uk" url="https://www.gov.uk/designprinciples#seventh">
+		<text>Remember we are designing information, not pushing pixels around a screen.</text>
+		<source></source>
+	</quote>
+	<quote title="Gov.uk" url="https://www.gov.uk/designprinciples#ninth">
+		<text>Be consistent, not uniform.</text>
+		<source></source>
+	</quote>
+	<quote title="Cooper" url="http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface.html/">
+		<text>Creative minds in technology should focus on solving problems. Not just make interfaces.</text>
+		<source></source>
+	</quote>
+	<quote title="Cooper" url="">
+		<text>It’s time for us to move beyond screen-based thinking. Because when we think in screens, we design based upon a model that is inherently unnatural, inhumane, and has diminishing returns. It requires a great deal of talent, money and time to make these systems somewhat usable, and after all that effort, the software can sadly, only truly improve with a major overhaul.</text>
+		<source></source>
+	</quote>
+	<quote title="Harry Roberts" url="http://csswizardry.com/2010/08/semantics-and-sensibility/">
+		<text>There is no such thing as a semantic class, only sensible or insensible.</text>
+		<source></source>
+	</quote>
+	<quote title="Tim Berners-Lee" url="">
+		<text>Anyone who slaps a ‘this page is best viewed with Browser X’ label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network.</text>
+		<source>Technology Review July 1996</source>
+	</quote>
 </quotes>

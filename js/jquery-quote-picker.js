@@ -1,6 +1,15 @@
 $(document).ready(function() {
-	$.get('quotes.xml', function(d) {
-		$(d).find('quote').each(function() {
+
+	$.get('quotes.xml', function(q) {
+
+		// Get the total number of quotes
+		var totalQuotes =$(q).find("quote").length;
+
+		// Pick one at pseudo random
+		var numRand = Math.floor(Math.random() * totalQuotes + 1);
+
+		// Parse the quote
+		$(q).find('quote:nth-child(' + numRand + ')').each(function() {
 
 			var $quote = $(this);
 			var title = $quote.attr("title");
@@ -13,5 +22,7 @@ $(document).ready(function() {
 			$('.jquery-quote-picker').append($(html));
 
 		});
+
 	});
+
 });

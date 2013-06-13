@@ -17,7 +17,19 @@ $(document).ready(function() {
 			var source = $quote.find('source').text();
 			var url = $quote.attr('url');
 
-			var html = '<blockquote><p>' + text + '</p><small>' + title + ' <cite><a href="' + url + '">' + source + '</a></cite></small></blockquote>';
+			var html = '<blockquote>';
+			html += '<p>' + text + '</p>';
+			html += '<small>' + title + ' ';
+
+			if(source !=='') {
+				if(url ==='') {
+					html += '<cite>' + source + '</cite>';
+				} else {
+					html += '<cite><a href="' + url + '">' + source + '</a></cite>';
+				}
+			}
+
+			html += '</small></blockquote>';
 
 			$('.jquery-quote-picker').append($(html));
 

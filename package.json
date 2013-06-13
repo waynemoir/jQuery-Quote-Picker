@@ -1,0 +1,14 @@
+{
+"name": "WayneMoir.com",
+	"version": "0.1.0",
+	"repository" : { 
+		"type" : "git", 
+		"url" : "https://github.com/waynemoir/jQuery-Quote-Picker.git"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-clean": "~0.4.1",
+		"grunt-contrib-compass": "~0.2.0",
+		"grunt-contrib-watch": "~0.4.3"
+	}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quotes>
+	<quote title="Grace Hopper" url="http://web.archive.org/web/20090114165606/http://www.chips.navy.mil/archives/86_jul/interview.html">
+		<text>It's easier to ask forgiveness than it is to get permission.</text>
+		<source>U.S. Navy's Chips Ahoy magazine (July 1986)</source>
+	</quote>
+	<quote title="James Gleick" url="http://www.goodreads.com/work/quotes/13574748-the-information-a-history-a-theory-a-flood">
+		<text>When information is cheap, attention becomes expensive.</text>
+		<source>The Information: A History, a Theory, a Flood</source>
+	</quote>
+	<quote title="Fred Brooks" url="http://www.elezea.com/2013/04/mythical-man-month/">
+		<text>Adding manpower to a late software project makes it later.</text>
+		<source>(Brooks's law) 1975</source>
+	</quote>
+	<quote title="Steve Jobs" url="http://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html?pagewanted=all&amp;src=pm">
+		<text>Design is not just what it looks like and feels like. Design is how it works.</text>
+		<source>The New York Times</source>
+	</quote>
+</quotes>

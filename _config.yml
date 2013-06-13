@@ -1,0 +1,1 @@
+exclude: [build.bat, README.md, inuit.css, style.scss, node_modules, Gruntfile.js, package.json]

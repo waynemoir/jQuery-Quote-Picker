@@ -1,0 +1,29 @@
+body {
+	padding: $base-spacing-unit;
+}
+
+blockquote {
+padding: 0 0 0 15px;
+margin: 0 0 $base-spacing-unit;
+border-left: 5px solid #edeceb;
+
+
+}
+
+
+blockquote p {
+margin-bottom: 0;
+font-size: 16px;
+font-weight: 300;
+line-height: 25px;
+}
+
+blockquote small {
+display: block;
+line-height: $base-spacing-unit;
+color: #d2cec8;
+}
+
+cite {
+font-style: normal;
+}

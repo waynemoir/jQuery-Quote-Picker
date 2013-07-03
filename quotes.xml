@@ -184,4 +184,8 @@
 		<text>Complexity cost is the debt you accrue by complicating features or technology in order to solve problems. An application that does twenty things is more difficult to refactor than an application that does one thing, so changes to its code will take longer. Sometimes complexity is a necessary cost, but only organizations that fully internalize the concept can hope to prevent runaway spending in this area.</text>
 		<source>First Round Capital, June 20 2013</source>
 	</quote>
+	<quote title="Kevin Powers" url="http://viget.com/advance/one-of-your-deliverables-should-be-education">
+		<text>One of Your Deliverables Should Be Education.</text>
+		<source>Viget.com blog, May 21 2013</source>
+	</quote>
 </quotes>
